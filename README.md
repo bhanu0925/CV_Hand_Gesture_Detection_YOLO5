@@ -1,1 +1,1 @@
-# CV_Hand_Sign_Gesture_Detection_YOLO5
+# CV_Hand_Gesture_Detection_YOLO5
